@@ -88,31 +88,24 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Legaand/faculty-project_nextjs">Research Interest Matching</a></h4>
-      <p>Semantic search over 300+ faculty profiles, with a RAG chatbot on top</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Legaand/Project-UCLA">Double Major Optimization</a></h4>
-      <p>Degree planning as a constraint-satisfaction problem across 8,000+ courses</p>
-    </td>
+    <td width="240"><b><a href="https://github.com/Legaand/faculty-project_nextjs">Research Interest Matching</a></b></td>
+    <td>Semantic search over 300+ faculty profiles, with a RAG chatbot on top</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Borislo83/Gemini_Hackathon">OHMS</a></h4>
-      <p>AI music from hand gestures. Honorable Mention, Google DeepMind × UCLA Hackathon</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Legaand/Jobright-ATS-Distill">Jobright ATS Distill</a></h4>
-      <p>Résumé to posting relevance scoring, distilled small and fast</p>
-    </td>
+    <td width="240"><b><a href="https://github.com/Legaand/Project-UCLA">Double Major Optimization</a></b></td>
+    <td>Degree planning as a constraint-satisfaction problem across 8,000+ courses</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Legaand/Legend-Personal-Website">Personal Website</a></h4>
-      <p>Hand-built portfolio, no framework runtime</p>
-    </td>
-    <td width="50%"></td>
+    <td width="240"><b><a href="https://github.com/Borislo83/Gemini_Hackathon">OHMS</a></b></td>
+    <td>AI music from hand gestures. Honorable Mention, Google DeepMind × UCLA Hackathon</td>
+  </tr>
+  <tr>
+    <td width="240"><b><a href="https://github.com/Legaand/Jobright-ATS-Distill">Jobright ATS Distill</a></b></td>
+    <td>Résumé to posting relevance scoring, distilled small and fast</td>
+  </tr>
+  <tr>
+    <td width="240"><b><a href="https://github.com/Legaand/Legend-Personal-Website">Personal Website</a></b></td>
+    <td>Hand-built portfolio, no framework runtime</td>
   </tr>
 </table>
 
