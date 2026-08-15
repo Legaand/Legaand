@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Legend Yang — Software Engineer, Mathematics of Computation @ UCLA" src="assets/banner-dark.svg">
+  <img alt="Legend Yang, Software Engineer, Mathematics of Computation @ UCLA" src="assets/banner-dark.svg">
 </picture>
 
 <p>
@@ -12,15 +12,17 @@
 
 ### Hey, I'm Legend 👋
 
-I study Mathematics of Computation at UCLA and build backend and AI systems — distributed pipelines, retrieval engines, and solvers that turn messy data into decisions.
+I study Mathematics of Computation at UCLA and build backend and AI systems.
 
-Right now I'm a Software Engineer Intern on AI Applications at **Liba Space**. Before that I researched AI agents at the **National University of Singapore**. Singapore → Los Angeles.
+What I like working on: distributed pipelines that hold up under real load, retrieval systems that return the right thing instead of the plausible thing, and agents you can hand an actual task to. I'm drawn to the parts people skip, like failure isolation, retry behavior, and keeping latency and cost inside a budget, because that's usually the difference between a demo and something that runs.
 
-**Everything I've built lives at [legaand.github.io/Legend-Personal-Website](https://legaand.github.io/Legend-Personal-Website/)** — that's the full portfolio, this is the short version.
+Lately I've been going deeper on making LLM systems reliable enough to ship, and on the infrastructure underneath them.
+
+**Everything I've built lives at [legaand.github.io/Legend-Personal-Website](https://legaand.github.io/Legend-Personal-Website/).** That's the full portfolio, this is the short version.
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -61,24 +63,24 @@ Right now I'm a Software Engineer Intern on AI Applications at **Liba Space**. B
 
 <br>
 
-## 🚀 Projects
+## Projects
 
 | | |
 |---|---|
 | [**Research Interest Matching**](https://github.com/Legaand/faculty-project_nextjs) | Semantic search over 300+ faculty profiles, with a RAG chatbot on top |
 | [**Double Major Optimization**](https://github.com/Legaand/Project-UCLA) | Degree planning as a constraint-satisfaction problem across 8,000+ courses |
-| [**OHMS**](https://github.com/Borislo83/Gemini_Hackathon) | AI music from hand gestures — Honorable Mention, Google DeepMind × UCLA Hackathon |
+| [**OHMS**](https://github.com/Borislo83/Gemini_Hackathon) | AI music from hand gestures. Honorable Mention, Google DeepMind × UCLA Hackathon |
 | [**Jobright ATS Distill**](https://github.com/Legaand/Jobright-ATS-Distill) | Résumé ↔ posting relevance scoring, distilled small and fast |
 | [**Personal Website**](https://github.com/Legaand/Legend-Personal-Website) | Hand-built portfolio, no framework runtime |
 
 <br>
 
-## 📄 Publications
+## Publications
 
-- **A Simple Approach of Chinese Poetry Generation Using Pre-trained LLMs** (2025) — [doi:10.1145/3726101.3726121](https://doi.org/10.1145/3726101.3726121)
+- **A Simple Approach of Chinese Poetry Generation Using Pre-trained LLMs** (2025). [doi:10.1145/3726101.3726121](https://doi.org/10.1145/3726101.3726121)
 
 <br>
 
 ---
 
-<sub>Open to internships and research work — I read everything that comes in.</sub>
+<sub>Open to internships and research work. I read everything that comes in.</sub>
