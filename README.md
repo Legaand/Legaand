@@ -12,9 +12,9 @@
 
 Hi, my name is Legend, like the word legendary. I study Mathematics of Computation at UCLA and build backend and AI systems.
 
-Away from the keyboard I do close-up card magic, and it turns out to be the same job. Get the mechanism right, then make it look like nothing happened.
-
 I like working on distributed pipelines that hold up under real load, retrieval systems that return the right thing instead of the plausible thing, and agents you can hand an actual task to. I'm drawn to the parts people skip, like failure isolation, retry behavior, and keeping latency and cost inside a budget, because that's usually the difference between a demo and something that runs.
+
+Away from the keyboard I do close-up card magic, and it turns out to be the same job. Get the mechanism right, then make it look like nothing happened.
 
 Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Website/).
 
