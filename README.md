@@ -67,7 +67,7 @@ Right now I'm a Software Engineer Intern on AI Applications at **Liba Space**. B
 |---|---|
 | [**Research Interest Matching**](https://github.com/Legaand/faculty-project_nextjs) | Semantic search over 300+ faculty profiles, with a RAG chatbot on top |
 | [**Double Major Optimization**](https://github.com/Legaand/Project-UCLA) | Degree planning as a constraint-satisfaction problem across 8,000+ courses |
-| **OHMS** | AI music from hand gestures — Honorable Mention, Google DeepMind × UCLA Hackathon |
+| [**OHMS**](https://github.com/Borislo83/Gemini_Hackathon) | AI music from hand gestures — Honorable Mention, Google DeepMind × UCLA Hackathon |
 | [**Jobright ATS Distill**](https://github.com/Legaand/Jobright-ATS-Distill) | Résumé ↔ posting relevance scoring, distilled small and fast |
 | [**Personal Website**](https://github.com/Legaand/Legend-Personal-Website) | Hand-built portfolio, no framework runtime |
 
@@ -76,7 +76,6 @@ Right now I'm a Software Engineer Intern on AI Applications at **Liba Space**. B
 ## 📄 Publications
 
 - **A Simple Approach of Chinese Poetry Generation Using Pre-trained LLMs** (2025) — [doi:10.1145/3726101.3726121](https://doi.org/10.1145/3726101.3726121)
-- **Resilience enhancement for interdependent power systems by AI-assisted disaster response** (2024) — [doi:10.54254/2755-2721/95/20241640](https://doi.org/10.54254/2755-2721/95/20241640)
 
 <br>
 
@@ -86,12 +85,6 @@ Right now I'm a Software Engineer Intern on AI Applications at **Liba Space**. B
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Legaand&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=B6C2CF&bg_color=00000000">
   <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legaand&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=B6C2CF&bg_color=00000000">
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Legaand/Legaand/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Legaand/Legaand/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Legaand/Legaand/output/github-snake.svg">
-</picture>
 
 ---
 
