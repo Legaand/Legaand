@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Legend Yang, Software Engineer, Mathematics of Computation @ UCLA" src="assets/banner-dark.svg">
-</picture>
+# Legend Yang
+
+**Software Engineer · Mathematics of Computation @ UCLA**
 
 <p>
   <a href="https://legaand.github.io/Legend-Personal-Website/"><img alt="Website" src="https://img.shields.io/badge/legendyang.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"></a>
@@ -10,7 +8,7 @@
   <a href="mailto:yanglegend84@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-### Hey, I'm Legend 👋
+### About
 
 I study Mathematics of Computation at UCLA and build backend and AI systems.
 
