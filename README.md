@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/frame-top-dark.svg">
+  <img alt="" width="100%" src="assets/frame-top-light.svg">
+</picture>
+
 <h1 align="center">Legend Yang</h1>
 
 <p align="center">
@@ -123,3 +128,7 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
   <a href="https://doi.org/10.1145/3726101.3726121">doi:10.1145/3726101.3726121</a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/frame-bottom-dark.svg">
+  <img alt="" width="100%" src="assets/frame-bottom-light.svg">
+</picture>
