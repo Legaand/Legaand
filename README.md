@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
-    <img alt="Legend Yang" width="440" src="assets/name-light.svg">
+    <img alt="Legend Yang" width="380" src="assets/name-light.svg">
   </picture>
 </p>
 
