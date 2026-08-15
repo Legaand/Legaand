@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 30" width="88" height="30" role="img" aria-label="Email">
+  <rect x="0.5" y="0.5" width="87" height="29" rx="5" fill="#F2F1ED" stroke="#B0182B" stroke-opacity="0.25"/>
+  <g transform="translate(12 7.0)"><rect x="0.8" y="2.6" width="14.4" height="10.8" rx="1.8" fill="none" stroke="#B0182B" stroke-width="1.5"/><path d="M1.6 4.2 L8 9.2 L14.4 4.2" fill="none" stroke="#B0182B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g fill="#B0182B">
+    <g transform="translate(36.0 19.0) scale(0.005371 -0.005371)">
+      <path transform="translate(0.0 0)" d="M149 0V1466H1236V1218H445V893H1181V646H445V247H1264V0Z"/>
+      <path transform="translate(1626.7 0)" d="M145 0V1466H588L854 466L1117 1466H1561V0H1286V1154L995 0H710L420 1154V0Z"/>
+      <path transform="translate(3593.3 0)" d="M1471 0H1149L1021 333H435L314 0H0L571 1466H884ZM926 580 724 1124 526 580Z"/>
+      <path transform="translate(5333.0 0)" d="M140 0V1466H436V0Z"/>
+      <path transform="translate(6162.6 0)" d="M157 0V1454H453V247H1189V0Z"/>
+    </g>
+  </g>
+</svg>

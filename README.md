@@ -3,9 +3,9 @@
 <p align="center"><sub>&#9824;&nbsp; &#9829;&nbsp; &#9830;&nbsp; &#9827;</sub></p>
 
 <p align="center">
-  <a href="https://legaand.github.io/Legend-Personal-Website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F2F1ED?style=for-the-badge&logo=googlechrome&logoColor=2B3138&labelColor=F2F1ED"></a>
-  <a href="https://www.linkedin.com/in/legendyang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-F2F1ED?style=for-the-badge&amp;labelColor=F2F1ED&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzJCMzEzOCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"></a>
-  <a href="mailto:yanglegend84@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-F2F1ED?style=for-the-badge&logo=gmail&logoColor=2B3138&labelColor=F2F1ED"></a>
+  <a href="https://legaand.github.io/Legend-Personal-Website/"><img alt="Portfolio" height="30" src="assets/tag-portfolio.svg"></a>
+  <a href="https://www.linkedin.com/in/legendyang/"><img alt="LinkedIn" height="30" src="assets/tag-linkedin.svg"></a>
+  <a href="mailto:yanglegend84@gmail.com"><img alt="Email" height="30" src="assets/tag-email.svg"></a>
 </p>
 
 <h3 align="center">About</h3>
