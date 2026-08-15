@@ -1,4 +1,4 @@
-<h1 align="center">Legend Yang</h1>
+<h3 align="center">Legend Yang</h3>
 
 <p align="center">
   <a href="https://legaand.github.io/Legend-Personal-Website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117"></a>
@@ -6,7 +6,7 @@
   <a href="mailto:yanglegend84@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA6A5A&labelColor=0D1117"></a>
 </p>
 
-<h3 align="center">About</h3>
+<h4 align="center">About</h4>
 
 Hi, my name is Legend, like the word legendary. I study Mathematics of Computation at UCLA and build backend and AI systems.
 
@@ -21,7 +21,7 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-<h3 align="center">Tech Stack</h3>
+<h4 align="center">Tech Stack</h4>
 
 <br>
 
@@ -77,7 +77,7 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-<h3 align="center">Projects</h3>
+<h4 align="center">Projects</h4>
 
 <br>
 
@@ -111,7 +111,7 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-<h3 align="center">Publications</h3>
+<h4 align="center">Publications</h4>
 
 <p align="center">
   <b>A Simple Approach of Chinese Poetry Generation Using Pre-trained LLMs</b> (2025).
