@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
-    <img alt="Legend Yang" width="380" src="assets/name-light.svg">
-  </picture>
-</p>
+<h1 align="center">Legend Yang</h1>
 
 <p align="center"><sub>&#9824;&nbsp; &#9829;&nbsp; &#9830;&nbsp; &#9827;</sub></p>
 
