@@ -79,13 +79,6 @@ Right now I'm a Software Engineer Intern on AI Applications at **Liba Space**. B
 
 <br>
 
-## 📊 My GitHub History
-
-<p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Legaand&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=B6C2CF&bg_color=00000000">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legaand&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=B6C2CF&bg_color=00000000">
-</p>
-
 ---
 
 <sub>Open to internships and research work — I read everything that comes in.</sub>
