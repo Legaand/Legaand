@@ -88,24 +88,31 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
 
 <table align="center">
   <tr>
-    <td width="240"><b><a href="https://github.com/Legaand/faculty-project_nextjs">Research Interest Matching</a></b></td>
-    <td>Semantic search over 300+ faculty profiles, with a RAG chatbot on top</td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Legaand/faculty-project_nextjs">Research Interest Matching</a></h4>
+      <p>Semantic search over 300+ faculty profiles, with a RAG chatbot on top</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Legaand/Project-UCLA">Double Major Optimization</a></h4>
+      <p>Degree planning as a constraint-satisfaction problem across 8,000+ courses</p>
+    </td>
   </tr>
   <tr>
-    <td width="240"><b><a href="https://github.com/Legaand/Project-UCLA">Double Major Optimization</a></b></td>
-    <td>Degree planning as a constraint-satisfaction problem across 8,000+ courses</td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Borislo83/Gemini_Hackathon">OHMS</a></h4>
+      <p>AI music from hand gestures. Honorable Mention, Google DeepMind × UCLA Hackathon</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Legaand/Jobright-ATS-Distill">Jobright ATS Distill</a></h4>
+      <p>Résumé to posting relevance scoring, distilled small and fast</p>
+    </td>
   </tr>
   <tr>
-    <td width="240"><b><a href="https://github.com/Borislo83/Gemini_Hackathon">OHMS</a></b></td>
-    <td>AI music from hand gestures. Honorable Mention, Google DeepMind × UCLA Hackathon</td>
-  </tr>
-  <tr>
-    <td width="240"><b><a href="https://github.com/Legaand/Jobright-ATS-Distill">Jobright ATS Distill</a></b></td>
-    <td>Résumé ↔ posting relevance scoring, distilled small and fast</td>
-  </tr>
-  <tr>
-    <td width="240"><b><a href="https://github.com/Legaand/Legend-Personal-Website">Personal Website</a></b></td>
-    <td>Hand-built portfolio, no framework runtime</td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Legaand/Legend-Personal-Website">Personal Website</a></h4>
+      <p>Hand-built portfolio, no framework runtime</p>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -123,11 +130,3 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
   <a href="https://doi.org/10.1145/3726101.3726121">doi:10.1145/3726101.3726121</a>
 </p>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" width="100%" src="assets/divider-light.svg">
-</picture>
-
-<p align="center"><sub>Open to internships and research work. I read everything that comes in.</sub></p>

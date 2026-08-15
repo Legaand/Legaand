@@ -2,12 +2,25 @@
   <defs>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="0.35" stop-color="#58A6FF" stop-opacity="0.55"/>
-      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.85"/>
-      <stop offset="0.65" stop-color="#58A6FF" stop-opacity="0.55"/>
+      <stop offset="0.35" stop-color="#58A6FF" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.7"/>
+      <stop offset="0.65" stop-color="#58A6FF" stop-opacity="0.45"/>
       <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9ECBFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9ECBFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#9ECBFF" stop-opacity="0"/>
+    </linearGradient>
   </defs>
+
   <rect x="0" y="7.25" width="1200" height="1.5" fill="url(#line)"/>
-  <rect x="594" y="2" width="12" height="12" transform="rotate(45 600 8)" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.9" stroke-width="1.5"/>
+
+  <rect y="7.25" width="220" height="1.5" fill="url(#shine)">
+    <animate attributeName="x" from="-220" to="1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="594" y="2" width="12" height="12" transform="rotate(45 600 8)" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
 </svg>
