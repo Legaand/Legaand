@@ -1,7 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/frame-top-dark.svg">
-  <img alt="" width="100%" src="assets/frame-top-light.svg">
-</picture>
+<table width="100%">
+<tr><td>
+
+<br>
 
 <h1 align="center">Legend Yang</h1>
 
@@ -18,11 +18,11 @@
 
 <h3 align="center">About</h3>
 
-Hi, my name is Legend, like the word legendary. I study Mathematics of Computation at UCLA and build backend and AI systems.
+<p>Hi, my name is Legend, like the word legendary. I study Mathematics of Computation at UCLA and build backend and AI systems.</p>
 
-I like working on distributed pipelines that hold up under real load, retrieval systems that return the right thing instead of the plausible thing, and agents you can hand an actual task to. I'm drawn to the parts people skip, like failure isolation, retry behavior, and keeping latency and cost inside a budget, because that's usually the difference between a demo and something that runs.
+<p>I like working on distributed pipelines that hold up under real load, retrieval systems that return the right thing instead of the plausible thing, and agents you can hand an actual task to. I'm drawn to the parts people skip, like failure isolation, retry behavior, and keeping latency and cost inside a budget, because that's usually the difference between a demo and something that runs.</p>
 
-Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Website/).
+<p>Everything I've built lives <a href="https://legaand.github.io/Legend-Personal-Website/">here</a>.</p>
 
 <br>
 
@@ -128,7 +128,7 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
   <a href="https://doi.org/10.1145/3726101.3726121">doi:10.1145/3726101.3726121</a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/frame-bottom-dark.svg">
-  <img alt="" width="100%" src="assets/frame-bottom-light.svg">
-</picture>
+<br>
+
+</td></tr>
+</table>
