@@ -3,16 +3,16 @@
 <p align="center"><sub>&#9824;&nbsp; &#9829;&nbsp; &#9830;&nbsp; &#9827;</sub></p>
 
 <p align="center">
-  <a href="https://legaand.github.io/Legend-Personal-Website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-141118?style=for-the-badge&logo=googlechrome&logoColor=FBBF24&labelColor=141118"></a>
-  <a href="https://www.linkedin.com/in/legendyang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141118?style=for-the-badge&amp;labelColor=141118&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZCQkYyNCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"></a>
-  <a href="mailto:yanglegend84@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-141118?style=for-the-badge&logo=gmail&logoColor=F43F5E&labelColor=141118"></a>
+  <a href="https://legaand.github.io/Legend-Personal-Website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117"></a>
+  <a href="https://www.linkedin.com/in/legendyang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRBOUVGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"></a>
+  <a href="mailto:yanglegend84@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA6A5A&labelColor=0D1117"></a>
 </p>
 
-<h3 align="center">&#9824; The Setup</h3>
+<h3 align="center">About</h3>
 
 Hi, my name is Legend, like the word legendary. I study Mathematics of Computation at UCLA and build backend and AI systems.
 
-Away from the keyboard I do close-up card magic, and it turns out to be the same job. Get the mechanism right, then make it look like nothing happened. A trick fails the way software fails, at the seam you forgot to cover, in front of someone who was watching closely.
+Away from the keyboard I do close-up card magic, and it turns out to be the same job. Get the mechanism right, then make it look like nothing happened.
 
 I like working on distributed pipelines that hold up under real load, retrieval systems that return the right thing instead of the plausible thing, and agents you can hand an actual task to. I'm drawn to the parts people skip, like failure isolation, retry behavior, and keeping latency and cost inside a budget, because that's usually the difference between a demo and something that runs.
 
@@ -21,11 +21,11 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" width="100%" src="assets/divider-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/suit-spade-dark.svg">
+  <img alt="" width="100%" src="assets/suit-spade-light.svg">
 </picture>
 
-<h3 align="center">&#9830; The Deck</h3>
+<h3 align="center">Tech Stack</h3>
 
 <br>
 
@@ -77,38 +77,33 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" width="100%" src="assets/divider-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/suit-heart-dark.svg">
+  <img alt="" width="100%" src="assets/suit-heart-light.svg">
 </picture>
 
-<h3 align="center">&#9829; The Hand</h3>
+<h3 align="center">Projects</h3>
 
 <br>
 
 <table align="center">
   <tr>
-    <td width="34" align="center"><b>A&#9824;</b></td>
-    <td width="230"><b><a href="https://github.com/Legaand/faculty-project_nextjs">Research Interest Matching</a></b></td>
+    <td width="240"><b><a href="https://github.com/Legaand/faculty-project_nextjs">Research Interest Matching</a></b></td>
     <td>Semantic search over 300+ faculty profiles, with a RAG chatbot on top</td>
   </tr>
   <tr>
-    <td width="34" align="center"><b>2&#9829;</b></td>
-    <td width="230"><b><a href="https://github.com/Legaand/Project-UCLA">Double Major Optimization</a></b></td>
+    <td width="240"><b><a href="https://github.com/Legaand/Project-UCLA">Double Major Optimization</a></b></td>
     <td>Degree planning as a constraint-satisfaction problem across 8,000+ courses</td>
   </tr>
   <tr>
-    <td width="34" align="center"><b>3&#9830;</b></td>
-    <td width="230"><b><a href="https://github.com/Borislo83/Gemini_Hackathon">OHMS</a></b></td>
+    <td width="240"><b><a href="https://github.com/Borislo83/Gemini_Hackathon">OHMS</a></b></td>
     <td>AI music from hand gestures. Honorable Mention, Google DeepMind × UCLA Hackathon</td>
   </tr>
   <tr>
-    <td width="34" align="center"><b>4&#9827;</b></td>
-    <td width="230"><b><a href="https://github.com/Legaand/Jobright-ATS-Distill">Jobright ATS Distill</a></b></td>
+    <td width="240"><b><a href="https://github.com/Legaand/Jobright-ATS-Distill">Jobright ATS Distill</a></b></td>
     <td>Résumé to posting relevance scoring, distilled small and fast</td>
   </tr>
   <tr>
-    <td width="34" align="center"><b>5&#9824;</b></td>
-    <td width="230"><b><a href="https://github.com/Legaand/Legend-Personal-Website">Personal Website</a></b></td>
+    <td width="240"><b><a href="https://github.com/Legaand/Legend-Personal-Website">Personal Website</a></b></td>
     <td>Hand-built portfolio, no framework runtime</td>
   </tr>
 </table>
@@ -116,11 +111,11 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" width="100%" src="assets/divider-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/suit-diamond-dark.svg">
+  <img alt="" width="100%" src="assets/suit-diamond-light.svg">
 </picture>
 
-<h3 align="center">&#9827; In Print</h3>
+<h3 align="center">Publications</h3>
 
 <p align="center">
   <b>A Simple Approach of Chinese Poetry Generation Using Pre-trained LLMs</b> (2025).
@@ -130,8 +125,6 @@ Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Web
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" width="100%" src="assets/divider-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/suit-club-dark.svg">
+  <img alt="" width="100%" src="assets/suit-club-light.svg">
 </picture>
-
-<p align="center"><sub>The best trick is the one where nobody looks for the method. Same with good software.</sub></p>
