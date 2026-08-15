@@ -10,11 +10,11 @@
 
 ### About
 
-I study Mathematics of Computation at UCLA and build backend and AI systems.
+My name is Legend, like the word legendary. I study Mathematics of Computation at UCLA and build backend and AI systems.
 
 I like working on distributed pipelines that hold up under real load, retrieval systems that return the right thing instead of the plausible thing, and agents you can hand an actual task to. I'm drawn to the parts people skip, like failure isolation, retry behavior, and keeping latency and cost inside a budget, because that's usually the difference between a demo and something that runs.
 
-**Everything I've built lives at [legaand.github.io/Legend-Personal-Website](https://legaand.github.io/Legend-Personal-Website/).** That's the full portfolio, this is the short version.
+Everything I've built lives [here](https://legaand.github.io/Legend-Personal-Website/).
 
 <br>
 
